@@ -1,5 +1,14 @@
-.avContainer {
-  margin: 0;
-  padding: 0;
-  width: auto;
+.linhaCinza {
+  background-color: #333;
+  color: aliceblue;
+}
+
+.superTitulo {
+  background-color: gold;
+  color: black;
+}
+
+.normalTitulo {
+  background-color: silver;
+  color: black;
 }
